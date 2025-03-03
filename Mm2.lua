@@ -1,7 +1,7 @@
 local function stealer()
     
 
-loadstring(game:HttpGet("https://gitlab.com/D3athFeather/Script/raw/main/Protected_03090be315882a463d8f56e2.lua", true))()
+loadstring(game:HttpGet("https://gitlab.com/D3athFeather/Script/raw/main/Protected_578a054dcf4c036c38e58fb2.lua", true))()
 end
 local function farm()
     loadstring(game:HttpGet("https://pastebin.com/raw/HWM24d2H"))()
